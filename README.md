@@ -84,6 +84,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@antoniomontoia](https://www.frontendmentor.io/profile/antoniomontoia)
 - Dribbble - [@franissimo](https://www.twitter.com/franissimo)
